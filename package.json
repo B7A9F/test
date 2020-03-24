@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "got": "^10.6.0",
+    "paseto": "^1.0.5",
+    "paseto.js": "^0.1.6",
+    "querystring": "^0.2.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
