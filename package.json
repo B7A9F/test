@@ -11,10 +11,9 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "dotenv": "^8.2.0",
-    "got": "^10.6.0",
-    "paseto": "^1.0.5",
-    "paseto.js": "^0.1.6",
+    "got": "10.0.4",
+    "paseto.js": "github:sloonz/paseto.js#18e28a7546ad4c6202404fbdd1e120d531f314d7",
     "querystring": "^0.2.0",
-    "tough-cookie": "^4.0.0"
+    "tough-cookie": "^3.0.1"
   }
 }
